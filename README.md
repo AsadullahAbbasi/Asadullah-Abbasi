@@ -1,4 +1,4 @@
-![logo](https://github.com/AsadullahAbbasi/Asadullah-Abbasi/blob/main/github-header-image%20(1).png?raw=true)
+![header_logo](/logo.png)
 <h1 align="center">Hi 👋, I'm Asadullah-Abbasi</h1>
 <h3 align="center">Full-Stack Developer | React, MERN | Scalable Apps & Seamless UX</h3>
 
