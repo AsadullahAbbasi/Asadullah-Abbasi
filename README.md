@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js, and Performance Optimization**
 
-- 👨‍💻 All of my projects are available at https://www.asadullahabbasi.com/
+- 👨‍💻 All of my projects are available at https://www.asadullahabbasi.com
 
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, Firebase, Tailwind, State Management**
 
 - 📫 How to reach me **asadullahabbasi225@gmail.com**
 
-- 📄 Know about my experiences [https://asadullahabbasi.netlify.app/](https://asadullahabbasi.netlify.app/)
+- 📄 Know about my experiences https://www.asadullahabbasi.com
 
 - ⚡ Fun fact **I debug more than I code. 😆**
 
